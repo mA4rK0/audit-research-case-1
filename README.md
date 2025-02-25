@@ -1,6 +1,6 @@
 # Welcome to my first smart contract audit & research 👋
 
-this is my first audit report after learning some basic skills to do audit. I was auditing the PasswordStore protocol to save a password from the owner of this protocol.
+this is my first audit report after learning some basic skills to do audit. I was auditing the PasswordStore protocol to save & retrieve a password from the owner of this protocol.
 
 ## About Research Protocol :
 
